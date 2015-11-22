@@ -1,0 +1,28 @@
+name: weightloss
+favicon: null
+layout_spectrum: 0.6401813311967999
+typography_spectrum: 0.3976571711245924
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.31133317667990923
+  lightness: 0.6342365154996514
+  saturation: 0.6214462120551616
+  rhythmicContrast: 0.569118415703997
+purpose: []
