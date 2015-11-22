@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Practical tips from how I burned over 100 lbs of fat and make more than 20 lbs of muscle]]></title>
         <description><![CDATA[Practical tips from how I burned over 100 lbs of fat and make more than 20 lbs of muscle]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/weightloss/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 22 Nov 2015 12:50:10 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 22 Nov 2015 13:02:56 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/weightloss/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Fuel Your Fat Burning Furnace]]></title>
             <description><![CDATA[<article><h1>Fuel Your Fat Burning Furnace</h1><p>(include some protein in the morning)</p></article>]]></description>
-            <link>undefinedfuel-your-fat-burning-furnace/index.html</link>
+            <link>https://thegrid.ai/weightloss/fuel-your-fat-burning-furnace/index.html</link>
             <guid isPermaLink="false">54df8acb-0eb1-4a56-9e14-03aae0c68b11</guid>
-            <pubDate>Sun, 22 Nov 2015 12:50:03 GMT</pubDate>
+            <pubDate>Sun, 22 Nov 2015 13:02:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
