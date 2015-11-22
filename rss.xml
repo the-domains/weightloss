@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Practical tips from how I burned over 100 lbs of fat and make more than 20 lbs of muscle]]></title>
+        <description><![CDATA[Practical tips from how I burned over 100 lbs of fat and make more than 20 lbs of muscle]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 22 Nov 2015 12:50:10 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Fuel Your Fat Burning Furnace]]></title>
+            <description><![CDATA[<article><h1>Fuel Your Fat Burning Furnace</h1><p>(include some protein in the morning)</p></article>]]></description>
+            <link>undefinedfuel-your-fat-burning-furnace/index.html</link>
+            <guid isPermaLink="false">54df8acb-0eb1-4a56-9e14-03aae0c68b11</guid>
+            <pubDate>Sun, 22 Nov 2015 12:50:03 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
