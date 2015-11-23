@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: true
 keywords: []
 description: " I didn't believe I could change....until I STARTED"
-datePublished: '2015-11-23T15:49:20.919Z'
-dateModified: '2015-11-23T15:49:14.972Z'
+datePublished: '2015-11-23T15:49:53.004Z'
+dateModified: '2015-11-23T15:49:50.157Z'
 title: There is nothing without belief
 author: []
 sourcePath: _posts/2015-11-22-there-is-nothing-without-belief.md
