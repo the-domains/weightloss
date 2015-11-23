@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: " I didn't believe I could change....until I STARTED"
-datePublished: '2015-11-22T17:35:22.369Z'
-dateModified: '2015-11-22T17:35:19.252Z'
+datePublished: '2015-11-23T15:49:20.919Z'
+dateModified: '2015-11-23T15:49:14.972Z'
 title: There is nothing without belief
 author: []
 sourcePath: _posts/2015-11-22-there-is-nothing-without-belief.md
@@ -30,6 +30,8 @@ It wasn't very long ago that I was trapped by my previous choices in a very unha
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/42a3514a-bcd1-4c03-8f4f-cac094875717.JPG)
 
 This all started to change for the better the day I met Kam Parker, owner and head-trainer at [The Fire Personal Training Studio][0]. Attending one of the [Asheville Area Chamber of Commerce][1]'s opportunities to connect with other business owners, I heard Kam give a presentation about her business. I was struck by her confidence and knowledge. It was if she was talking directly to me! After catching up with her after the event, we talked about my situation. She agreed to take me on as a one-on-one personal training client. Her only requirement was that my level of commitment to see this journey through was going to have to be extremely high (not wasting her/my time). You can trust she pushed me hard enough that I wanted to give up, plenty. But that's not the reason I've successfully changed my health and fitness levels. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c0af733a-70c1-49c4-bc66-bb68de9cab57.jpg)
+
+****
 
 **It's because I finally believed I could do it, then I didn't stop. **Once I started to push through and start forming better habits, my belief started to soar. Training and diet changes got me to a new level, but understanding of the emotional changes I needed to conquer was the tipping point that **has helped me create lasting change. **Now I like to share my story with anyone who wants to listen.
 
