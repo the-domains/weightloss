@@ -3,21 +3,21 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
-description: ''
-datePublished: '2015-11-23T16:05:23.268Z'
-dateModified: '2015-11-23T16:05:04.592Z'
+description: " I didn't believe I could change....until I STARTED"
+datePublished: '2015-11-23T16:06:48.013Z'
+dateModified: '2015-11-23T16:06:42.597Z'
 title: There is nothing without belief
 author: []
+sourcePath: _posts/2015-11-23-there-is-nothing-without-belief.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-11-23-there-is-nothing-without-belief.md
-published: true
 url: there-is-nothing-without-belief/index.html
 _type: Article
 
